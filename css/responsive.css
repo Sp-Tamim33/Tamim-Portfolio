@@ -1,0 +1,515 @@
+/* Header Responsive code */
+@media (max-width:1170px){
+	.menu2 {
+    padding: 0 10px;
+    font-size: 15px;
+    margin-left: 0px;
+	}
+	.manu {
+		width: 500px;
+		font-weight: 500;
+		padding-left: 0px;
+	}
+	.logo {
+		font-size: 40px;
+		font-weight: 800;
+	}
+	.slider-img {
+		width: 350px;
+	}
+}
+
+
+/* slider responsive code */
+@media (max-width:1236px){
+	.about-section h1::after {
+		width: 190px !important;
+		left: 42% !important;
+	}
+}
+
+@media (max-width:1274px){
+	.about-section h1::after {
+		width: 197px !important;
+		left: 42% !important;
+	}
+	.slider-img {
+		width: 350px;
+	}
+	.skill-section h1::after {
+		width: 180px !important;
+	}
+	.service-section h1::after {
+		width: 250px !important;
+		left: 40% !important;
+	}
+	.portfolio-section h1::after {
+		width: 273px !important;
+		left: 39% !important;
+	}
+	.testimonial-section h1::after {
+		width: 404px !important;
+		left: 34% !important;
+	}
+	.contact-section h1::after {
+		width: 567px !important;
+		left: 28% !important;
+	}
+}
+
+
+@media (max-width:1066px){
+	.navbar-nav {
+		margin-left: -150px !important;
+	}
+	.slider-left-content {
+		margin-left: 100px;
+	}
+	.slider-img {
+		width: 350px;
+	}
+	.about-section h1::after {
+		width: 188px !important;
+		left: 41% !important;
+	}
+	.about-list ul li {
+		padding-top: 50px;
+		font-size: 20px;
+	}
+	.personal{
+		font-size: 25px;
+	}
+	.about-right-items {
+		width: 175px;
+		height: 195px;
+	}
+	.about-right-items h2 {
+		font-size: 45px;
+	}
+	.about-right-items span {
+		font-size: -1px;
+	}
+	.skill-section h1::after {
+		left: 41% !important;
+	}
+	.skill-bar {
+		width: 375px !important;
+	}
+	.service-section h1::after {
+		left: 38% !important;
+	}
+	.service-item span {
+		font-size: 39px;
+		width: 70px;
+		height: 50px;
+	}
+	.i-icon {
+		margin-top: 5px;
+	}
+	.serviceP {
+		font-size: 16px;
+	}
+	.portfolio-section h1::after {
+		left: 37% !important;
+	}
+	.testimonial-section h1::after {
+		width: 375px !important;
+		left: 31% !important;
+	}
+	.contact-section h1::after {
+		width: 533px !important;
+		left: 24% !important;
+	}
+	.right-form input {
+		width: 80%;
+	}
+	.message1 {
+		width: 80%;
+	}
+	.asdf p {
+		margin-left: 85px;
+	}
+}
+
+@media (max-width:1080px){
+	.navbar-nav {
+		margin-left: -150px !important;
+	}
+	.slider-left-content {
+		margin-left: 100px;
+	}
+	.slider-img {
+		width: 350px;
+	}
+	.about-section h1::after {
+		width: 188px !important;
+		left: 41% !important;
+	}
+	.about-list ul li {
+		padding-top: 50px;
+		font-size: 20px;
+	}
+	.personal{
+		font-size: 25px;
+	}
+	.about-right-items {
+		width: 175px;
+		height: 195px;
+	}
+	.about-right-items h2 {
+		font-size: 45px;
+	}
+	.about-right-items span {
+		font-size: -1px;
+	}
+	.skill-section h1::after {
+		left: 41% !important;
+	}
+	.skill-bar {
+		width: 375px !important;
+	}
+	.service-section h1::after {
+		left: 38% !important;
+	}
+	.service-item span {
+		font-size: 39px;
+		width: 70px;
+		height: 50px;
+	}
+	.i-icon {
+		margin-top: 5px;
+	}
+	.serviceP {
+		font-size: 16px;
+	}
+	.portfolio-section h1::after {
+		left: 37% !important;
+	}
+	.testimonial-section h1::after {
+		width: 375px !important;
+		left: 31% !important;
+	}
+	.contact-section h1::after {
+		width: 533px !important;
+		left: 24% !important;
+	}
+	.right-form input {
+		width: 80%;
+	}
+	.message1 {
+		width: 80%;
+	}
+	.asdf p {
+		margin-left: 85px;
+	}
+}
+
+@media (max-width:1150px){
+		body{
+		width: 100%;
+	}
+	.slider-left-content {
+		margin-left: 100px;
+	}
+	.slider-img {
+		width: 350px;
+	}
+	.about-section h1::after {
+		width: 188px !important;
+		left: 41% !important;
+	}
+	.about-list ul li {
+		padding-top: 50px;
+		font-size: 20px;
+	}
+	.personal{
+		font-size: 25px;
+	}
+	.about-right-items {
+		width: 175px;
+		height: 195px;
+	}
+	.about-right-items h2 {
+		font-size: 45px;
+	}
+	.about-right-items span {
+		font-size: -1px;
+	}
+	.skill-section h1::after {
+		left: 41% !important;
+	}
+	.skill-bar {
+		width: 375px;
+	}
+	.service-section h1::after {
+		left: 38% !important;
+	}
+	.service-item span {
+		font-size: 39px;
+		width: 70px;
+		height: 50px;
+	}
+	.i-icon {
+		margin-top: 5px;
+	}
+	.serviceP {
+		font-size: 16px;
+	}
+	.portfolio-section h1::after {
+		left: 37% !important;
+	}
+	.testimonial-section h1::after {
+		left: 31% !important;
+	}
+	.contact-section h1::after {
+		width: 547px !important;
+		left: 24% !important;
+	}
+	.right-form input {
+		width: 80%;
+	}
+	.message1 {
+		width: 80%;
+	}
+	.asdf p {
+		margin-left: 85px;
+	}
+}
+
+@media (max-width:1184px){
+	.skill-bar {
+		width: 375px;
+	}
+	.about-list ul li {
+		padding-top: 50px;
+		font-size: 20px;
+	}
+	.personal{
+		font-size: 25px;
+	}
+	.about-right-items {
+		width: 175px;
+		height: 195px;
+	}
+	.about-right-items h2 {
+		font-size: 45px;
+	}
+	.about-right-items span {
+		font-size: -1px;
+	}
+	.skill-section h1::after {
+		width: 185px !important;
+		left: 42% !important;
+	}
+	.service-section h1::after {
+		width: 241px !important;
+		left: 41% !important;
+	}
+	.i-icon {
+		font-size: 40px;
+		margin-top: 5px;
+	}
+	.portfolio-section h1::after {
+		width: 262px !important;
+		left: 39% !important;
+	}
+	.testimonial-section h1::after {
+		width: 384px !important;
+		left: 34% !important;
+	}
+	.contact-section h1::after {
+		width: 544px !important;
+		left: 27% !important;
+	}
+}
+
+@media (max-width:1184px){
+	.slider-left-content p {
+		width: 320px;
+	}
+	.slider-img {
+		width: 320px;
+	}
+	.about-section h1::after {
+		width: 178px !important;
+	}
+	.about-right-items {
+		width: 134px;
+	}
+	.skill-section h1::after {
+		width: 159px !important;
+	}
+	.mainDivOfSkill{
+		 text-align:center;
+	}
+	.skill-bar {
+		width: 125%;
+	}
+	.service-section h1::after {
+		width: 217px !important;
+		left: 39% !important;
+	}
+	.portfolio-section h1::after {
+		width: 236px !important;
+		left: 38% !important;
+	}
+	.testimonial-section h1::after {
+		width: 354px !important;
+		left: 32% !important;
+	}
+	.contact-section h1::after {
+		width: 509px !important;
+		left: 24% !important;
+	}
+	.asdf p {
+		margin-left: 17px;
+	}
+
+}
+
+@media (max-width: 880px){
+	.navbar-nav {
+		margin-left: 0px !important;
+	}
+}
+
+
+@media (max-width:768px){
+	
+	
+	.slider-left-content {
+		margin-left: 40px;
+	}
+	.slider-left-content h1 {
+		font-size: 30px;
+	}
+	.slider-left-content h3 {
+		padding: 5px 0;
+		font-size: 27px;
+	}
+	.slider-left-content p {
+		font-size: 12px;
+		line-height: 1.2;
+	}
+	.about-list ul li {
+		display: inline-block;
+		margin-right: 22px;
+	}
+	.personal{
+		text-align: center;
+	}
+	.about-section h1::after {
+		left: 38% !important;
+		width: 165px !important;
+	}
+	.about-right-items {
+		width: 250px;
+	}
+	.skill-section h1::after {
+		width: 150px !important;
+		left: 39% !important;
+	}
+	.service-section h1::after {
+		width: 206px !important;
+		left: 35% !important;
+	}
+	.service-item {
+		width: 400px;
+		text-align: center;
+	}
+	.ffff{
+		text-align: center;
+	}
+	.portfolio-section h1::after {
+		width: 222px !important;
+		left: 34% !important;
+	}
+	.testimonial-section h1::after {
+		width: 354px !important;
+		left: 24% !important;
+	}
+	.contact-section h1::after {
+		width: 466px !important;
+		left: 16% !important;
+	}
+	.asdf p {
+		text-align: center;
+	}
+	.asdfg p {
+		margin-left: 10px;
+		text-align: center;
+		padding: 5px;
+	}
+}
+
+@media (max-width:576px){
+	
+	.slider-right-img {
+		display: block;
+		text-align: center;
+	}
+	.about-section h1::after {
+		left: 32% !important;
+		top: 60px !important;
+		width: 154px !important;
+	}
+	.about-list ul li {
+		padding-top: 20px;
+		font-size: 20px;
+		display: block !important;
+		text-align: center;
+	}
+	.about-right-items {
+		margin-left: 80px;
+	}
+	.skill-section h1::after {
+		top: 62px !important;
+		left: 33% !important;
+	}
+	.mainDivOfSkill {
+		margin-top: -50px !important;
+	}
+	.skill-items {
+		padding: 10px 0;
+	}
+	.skill-content {
+		margin-top: 20px;
+	}
+	.service-section h1::after {
+		width: 177px !important;
+		left: 29% !important;
+		top: 60px !important;
+	}
+	.service-item {
+		width: 350px;
+		margin-left: 18px;
+		margin-top: 10px;
+	}
+	.portfolio-section h1::after {
+		width: 196px !important;
+		left: 27% !important;
+		top: 55px !important;
+	}
+	.img-items {
+		margin-top: -28px;
+	}
+	.testimonial-section h1::after {
+		width: 286px !important;
+		left: 17% !important;
+		top: 55px !important;
+	}
+	.contact-section h1::after {
+		width: 395px !important;
+		left: 4% !important;
+		top: 88px !important;
+	}
+	#contact {
+		margin-left: 52px;
+	}
+	.right-centent {
+		text-align: center;
+	}
+	.asdf p {
+		margin-left: -13px;
+	}
+}
