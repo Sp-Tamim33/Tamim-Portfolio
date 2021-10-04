@@ -1,12 +1,12 @@
 /* Header Responsive code */
-@media (max-width:1170px){
+@media (max-width:1166px){
 	.menu2 {
     padding: 0 10px;
     font-size: 15px;
     margin-left: 0px;
 	}
 	.manu {
-		width: 500px;
+		/* width: 500px; */
 		font-weight: 500;
 		padding-left: 0px;
 	}
@@ -133,7 +133,7 @@
 
 @media (max-width:1080px){
 	.navbar-nav {
-		margin-left: -150px !important;
+		margin-left: -20px !important;
 	}
 	.slider-left-content {
 		margin-left: 100px;
