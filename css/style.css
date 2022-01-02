@@ -117,16 +117,6 @@ img {
     position: relative;
 }
 
-.about-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 188px;
-    background-color: #0d6efd;
-    top: 70px;
-    left: 43%;
-}
-
 .about-section h1 span {
     color: #0d6efd;
 }
@@ -179,15 +169,6 @@ img {
     position: relative;
 }
 
-.skill-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 188px;
-    background-color: #0d6efd;
-    top: 75px;
-    left: 43%;
-}
 
 .skill-section h2 {
     border-bottom: 2px solid #0d6efd;
@@ -276,15 +257,6 @@ img {
     position: relative;
 }
 
-.service-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 246px;
-    background-color: #0d6efd;
-    top: 75px;
-    left: 41%;
-}
 
 .service-item {
     background: #fff;
@@ -319,15 +291,6 @@ img {
     position: relative;
 }
 
-.portfolio-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 268px;
-    background-color: #0d6efd;
-    top: 68px;
-    left: 40%;
-}
 
 .portfolio-item img {
     border-radius: 5px;
@@ -372,15 +335,6 @@ img {
     position: relative;
 }
 
-.testimonial-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 402px;
-    background-color: #0d6efd;
-    top: 68px;
-    left: 35%;
-}
 
 .carousel {
     background: #0d6efd;
@@ -420,15 +374,6 @@ img {
     position: relative;
 }
 
-.contact-section h1::after {
-    content: '';
-    position: absolute;
-    height: 3px;
-    width: 573px;
-    background-color: #0d6efd;
-    top: 101px;
-    left: 29%;
-}
 
 .mail {
     margin-top: 40px;
@@ -445,10 +390,6 @@ img {
 .mail p {
     color: #767676;
     margin-left: 35px;
-}
-
-.location{
-	
 }
 
 .right-form input {
